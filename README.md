@@ -2,4 +2,4 @@
 
 Empirical study testing if database indexes significantly improve query speed. Controlled experiments with SQLite + Python, validated with statistical analysis.
 
-By: Asna Anas, Vismaya R V, Nidhi Krishna P V | Guide: Nimisha
+By: Nidhi Krishna P V | Guide: 
